@@ -5,7 +5,7 @@ I'm a Front-End developer at [Code & Theory](http://codeandtheory.com/) - Philip
 ## About
 - ❤️  I'm currently teaching web development to some of the young adults here in our country (Philippines) 🇵🇭
 - 📱 I'm learning mobile development using dart & flutter
-- 🔥 I'm working on a "secret project" right now, feel free to reach me out if you're curious about this "secret project"
+- 🔥 I'm working on a "secret project" right now, feel free to reach me out if you're curious about it
 - 📝 I prefer writing down some of my thoughts, ideas, and experience at [joimee.design](https://joimee.design/) or [@joimee.cajandab in medium](https://medium.com/@joimee.cajandab) 
 - 📚 I love reading books/articles about business, design, life, technology, psychology, and many more...
 
