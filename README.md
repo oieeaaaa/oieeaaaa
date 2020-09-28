@@ -1,13 +1,14 @@
 # Kamusta? (Hello) 👋
 
-I'm a Front-End developer at [Code & Theory](http://codeandtheory.com/) - Philippines, Manila. And I love coding and books!
+I'm a [Software Writer](https://youtu.be/9LfmrkyP81M). And I love coding, learning and books!
 
 ## About
-- ❤️  I'm currently teaching web development to some of the young adults here in our country (Philippines) 🇵🇭
-- 📱 I'm learning mobile development using dart & flutter
-- 🔥 I'm working on a "secret project" right now, feel free to reach me out if you're curious about it
-- 📝 I prefer writing down some of my thoughts, ideas, and experience at [joimee.design](https://joimee.design/) or [@joimee.cajandab in medium](https://medium.com/@joimee.cajandab) 
+- 🏢 I'm working at [Code & Theory](http://codeandtheory.com/) - Philippines, Manila
+- 🔥 I love working on my personal projects then break and fix them for the "AHA moments"!
+- 📱 I'm currently learning mobile development using dart & flutter
+- ❤️  I also teach web development to some of folks here in our country (Philippines) 🇵🇭
 - 📚 I love reading books/articles about business, design, life, technology, psychology, and many more...
+- 📝 I prefer writing down some of my thoughts, ideas, and experience at [joimee.design](https://joimee.design/) or [@joimee.cajandab in medium](https://medium.com/@joimee.cajandab) 
 
 ## Fun
 - 👀 Open for side-hustles
