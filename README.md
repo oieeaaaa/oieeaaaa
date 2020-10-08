@@ -1,6 +1,6 @@
 # Kamusta? (Hello) 👋
 
-I'm a [Software Writer](https://youtu.be/9LfmrkyP81M). And I love coding, learning and books!
+I'm a [Software Writer](https://youtu.be/9LfmrkyP81M). And I love coding, simple designs, learning and books!
 
 ## About
 - 🏢 I'm working at [Code & Theory](http://codeandtheory.com/) - Philippines, Manila
