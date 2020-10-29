@@ -3,7 +3,7 @@
 I love writing codes, simple designs, learning and books!
 
 ## About
-- 🏢 I'm working at [Code & Theory](http://codeandtheory.com/) - Philippines, Manila
+- 🏢 I'm working at [Code & Theory](http://codeandtheory.com/) - Ortigas Center
 - 🔥 I love working on my personal projects then break and fix them for the "AHA moments"!
 - 📱 I'm currently learning mobile development using dart & flutter
 - ❤️  I also teach web development to some of folks here in our country (Philippines) 🇵🇭
