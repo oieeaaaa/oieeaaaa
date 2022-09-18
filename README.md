@@ -13,6 +13,3 @@ I love writing codes, simple designs, learning and books!
 - 💬 Open for collaborative meetups
 - 🏓 G! for a couple sets of ping-pong
 - ♟ G! for 3m blitz or 10m rapid chess
-
-## Need to talk?
-- Email: [joimee.cajandab@gmail.com](joimee.cajandab@gmail.com)
